@@ -11,12 +11,9 @@ class AtomFeed(var feedpath:String) extends Feed {
   }
   
   override val name =  feed \ "title"
-  override val items = feed \\ "entry"
+  val entries = feed \\ "entry"
   
-  //val elements:Map[String, String] = Map.empty[String, String] ++ 
-  //items.map(x => {( (x \ "title").text) -> ((x \ "link" \ "@href").text ) })
-  
-  val elements = items.map( x => new AtomFeedItem(x) )
+  override val articles = entries.map( x => new AtomFeedItem(x) )
 }
 
 class AtomFeedItem(n:Node) extends TItem{

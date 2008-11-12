@@ -6,6 +6,5 @@ import scala.Seq
 
 trait Feed {
   val name:Seq[Node]
-  val items:Seq[Node]
-  val elements:Seq[TItem]
+  val articles:Seq[TItem]
 }

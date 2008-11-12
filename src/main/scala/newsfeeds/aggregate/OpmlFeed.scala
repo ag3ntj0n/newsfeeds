@@ -15,8 +15,8 @@ class OpmlFeed(var feedpath:String) extends Feed {
   //val i = (feed \\ "outline").filter( k => (k \ "@xmlUrl").length == 1 )
   //if ( itms== i) {println("!!!!!!!!!!!!!!!!!!!!")} else {println("doh")}
   
-  override val items =  (feed \\ "outline").filter( k => (k \ "@xmlUrl").length == 1 )// itms.asInstanceOf[NodeSeq] //(feed \\ "outline").foreach () //where outline has xmlUrl
-  val elements = items.map( x => new OpmlItem(x) )//Seq.empty
+  val items =  (feed \\ "outline").filter( k => (k \ "@xmlUrl").length == 1 )// itms.asInstanceOf[NodeSeq] //(feed \\ "outline").foreach () //where outline has xmlUrl
+  override val articles = items.map( x => new OpmlItem(x) )//Seq.empty
 }
 
 class OpmlItem( n:Node ) extends TItem{

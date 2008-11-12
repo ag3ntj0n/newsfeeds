@@ -11,8 +11,8 @@ class RssFeed (var feedpath:String) extends Feed{
   }
   
   override val name =  feed \ "channel" \ "title"
-  override val items = feed \ "channel" \\ "item"
-  override val elements = items.map( x => new RssFeedItem(x) )  //Seq.empty
+  val items = feed \ "channel" \\ "item"
+  override val articles = items.map( x => new RssFeedItem(x) )  //Seq.empty
   
 }
 
