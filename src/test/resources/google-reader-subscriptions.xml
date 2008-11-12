@@ -7,9 +7,6 @@
         <outline text="Dub War NYC Podcast" title="Dub War NYC Podcast"
             type="rss"
             xmlUrl="http://www.dqxt.org/dubwar/podcast/dubwar_podcast.rss" htmlUrl="http://www.dqxt.org/dubwar/index.html"/>
-        <outline text="emily's starred items"
-            title="emily's starred items" type="rss"
-            xmlUrl="http://www.google.com/reader/public/atom/user/10280084261354281631/state/com.google/starred" htmlUrl="http://www.google.com/reader/view/user%2F10280084261354281631%2Fstate%2Fcom.google%2Fstarred"/>
         <outline text="Graceless Failures" title="Graceless Failures"
             type="rss"
             xmlUrl="http://www.gracelessfailures.com/feeds/posts/default" htmlUrl="http://www.gracelessfailures.com/"/>
