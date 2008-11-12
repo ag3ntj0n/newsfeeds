@@ -4,20 +4,6 @@
         <title>jon subscriptions in Google Reader</title>
     </head>
     <body>
-        <!--
-        <outline text="(title unknown)" title="(title unknown)"
-            type="rss"
-            xmlUrl="http://twitter.com/statuses/friends_timeline.atom" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ftwitter.com%2Fstatuses%2Ffriends_timeline.atom"/>
-        <outline text="agentjon reddit" title="agentjon reddit"
-           
-            type="rss"
-            xmlUrl="http://www.reddit.com/user/agentjon/liked/.rss" htmlUrl="http://www.reddit.com/"/>
-        <outline text="del.icio.us/meisemily"
-            title="del.icio.us/meisemily" type="rss"
-            xmlUrl="http://del.icio.us/rss/meisemily" htmlUrl="http://delicious.com/meisemily"/>
-        <outline text="digg / agentjon / history"
-            title="digg / agentjon / history" type="rss"
-            xmlUrl="http://www.digg.com/users/agentjon/history.rss" htmlUrl="http://digg.com/users/agentjon/history"/> -->
         <outline text="Dub War NYC Podcast" title="Dub War NYC Podcast"
             type="rss"
             xmlUrl="http://www.dqxt.org/dubwar/podcast/dubwar_podcast.rss" htmlUrl="http://www.dqxt.org/dubwar/index.html"/>
