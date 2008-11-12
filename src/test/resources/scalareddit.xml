@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss" version="2.0">
+  <channel>
+    <title>scala: what's new online</title>
+    <link>http://www.reddit.com/r/scala/</link>
+    <description/>
+    <image>
+      <url>http://www.reddit.comhttp://static.reddit.com/reddit.com.header.png</url>
+      <title>scala: what's new online</title>
+      <link>http://www.reddit.com/r/scala/</link>
+    </image>
+    <item>
+      <title>Scala 2.7.2 RC5</title>
+      <link>http://www.reddit.com/r/scala/comments/7aah8/scala_272_rc5/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/7aah8/scala_272_rc5/</guid>
+      <pubDate>2008-10-30T13:43:30.370482+00:00</pubDate>
+      <dc:date>2008-10-30T13:43:30.370482+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.scala-lang.org/node/341"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/7aah8/scala_272_rc5/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Install Scala Plugin for NetBeans 6.5 RC2</title>
+      <link>http://www.reddit.com/r/scala/comments/7abos/install_scala_plugin_for_netbeans_65_rc2/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/7abos/install_scala_plugin_for_netbeans_65_rc2/</guid>
+      <pubDate>2008-10-30T16:17:56.814494+00:00</pubDate>
+      <dc:date>2008-10-30T16:17:56.814494+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blogtrader.org/page/dcaoyuan/entry/install_scala_plugin_for_netbeans"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/7abos/install_scala_plugin_for_netbeans_65_rc2/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Intellij + Scala; it is with great regret…</title>
+      <link>http://www.reddit.com/r/scala/comments/7a8hk/intellij_scala_it_is_with_great_regret/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/7a8hk/intellij_scala_it_is_with_great_regret/</guid>
+      <pubDate>2008-10-30T06:43:02.763087+00:00</pubDate>
+      <dc:date>2008-10-30T06:43:02.763087+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blog.tmorris.net/intellij-scala-it-is-with-great-regret/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/7a8hk/intellij_scala_it_is_with_great_regret/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala stories should also appear in proggit. This is one of those cases in which tags are not a good substitute for hierarchy.</title>
+      <link>http://www.reddit.com/r/scala/comments/79qlp/scala_stories_should_also_appear_in_proggit_this/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/79qlp/scala_stories_should_also_appear_in_proggit_this/</guid>
+      <pubDate>2008-10-27T23:46:50.209822+00:00</pubDate>
+      <dc:date>2008-10-27T23:46:50.209822+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/Arrgh"&gt;Arrgh&lt;/a&gt; &lt;br/&gt; &lt;a href="/r/scala/comments/79qlp/scala_stories_should_also_appear_in_proggit_this/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/79qlp/scala_stories_should_also_appear_in_proggit_this/"&gt;[1 comment]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>RPC Server for Erlang, In Scala</title>
+      <link>http://www.reddit.com/r/scala/comments/79pzx/rpc_server_for_erlang_in_scala/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/79pzx/rpc_server_for_erlang_in_scala/</guid>
+      <pubDate>2008-10-27T21:53:49.258198+00:00</pubDate>
+      <dc:date>2008-10-27T21:53:49.258198+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blogtrader.org/page/dcaoyuan/entry/rpc_server_for_erlang_in1"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/79pzx/rpc_server_for_erlang_in_scala/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala 2.7.2 RC4</title>
+      <link>http://www.reddit.com/r/scala/comments/79pwt/scala_272_rc4/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/79pwt/scala_272_rc4/</guid>
+      <pubDate>2008-10-27T21:39:28.938600+00:00</pubDate>
+      <dc:date>2008-10-27T21:39:28.938600+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.scala-lang.org/node/340"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/79pwt/scala_272_rc4/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala needs its own ecosystem</title>
+      <link>http://www.reddit.com/r/scala/comments/79m9q/scala_needs_its_own_ecosystem/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/79m9q/scala_needs_its_own_ecosystem/</guid>
+      <pubDate>2008-10-27T14:07:37.405510+00:00</pubDate>
+      <dc:date>2008-10-27T14:07:37.405510+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://andreasjacobsen.com/2008/10/27/scala-needs-its-own-ecosystem/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/79m9q/scala_needs_its_own_ecosystem/"&gt;[2 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>tiscaf http server, overview</title>
+      <link>http://www.reddit.com/r/scala/comments/79hsw/tiscaf_http_server_overview/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/79hsw/tiscaf_http_server_overview/</guid>
+      <pubDate>2008-10-26T13:09:10.004608-07:00</pubDate>
+      <dc:date>2008-10-26T13:09:10.004608-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://gaydenko.com/scala/tiscaf/httpd/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/79hsw/tiscaf_http_server_overview/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Enchilada Programming Language - a concatenative, term-rewriting language/interpreter in Scala.</title>
+      <link>http://www.reddit.com/r/scala/comments/78oen/enchilada_programming_language_a_concatenative/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/78oen/enchilada_programming_language_a_concatenative/</guid>
+      <pubDate>2008-10-22T08:16:29.010645-07:00</pubDate>
+      <dc:date>2008-10-22T08:16:29.010645-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.nabble.com/-scala--Enchilada-Programming-Language-td20111828.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/78oen/enchilada_programming_language_a_concatenative/"&gt;[1 comment]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>New Book: Programming in Scala is at the Printer</title>
+      <link>http://www.reddit.com/r/scala/comments/78m7n/new_book_programming_in_scala_is_at_the_printer/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/78m7n/new_book_programming_in_scala_is_at_the_printer/</guid>
+      <pubDate>2008-10-22T09:06:45.488026+00:00</pubDate>
+      <dc:date>2008-10-22T09:06:45.488026+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.nabble.com/-scala--Programming-in-Scala-is-at-the-Printer-td20098100.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/78m7n/new_book_programming_in_scala_is_at_the_printer/"&gt;[1 comment]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>FOR, WHILE Is Too Easy, Let's Go Looping</title>
+      <link>http://www.reddit.com/r/scala/comments/78lrm/for_while_is_too_easy_lets_go_looping/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/78lrm/for_while_is_too_easy_lets_go_looping/</guid>
+      <pubDate>2008-10-22T07:20:18.699915+00:00</pubDate>
+      <dc:date>2008-10-22T07:20:18.699915+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blogtrader.org/page/dcaoyuan/entry/for_while_is_too_easy"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/78lrm/for_while_is_too_easy_lets_go_looping/"&gt;[1 comment]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>The busy Java developer's guide to Scala: Building a calculator, Part 2</title>
+      <link>http://www.reddit.com/r/scala/comments/78lqs/the_busy_java_developers_guide_to_scala_building/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/78lqs/the_busy_java_developers_guide_to_scala_building/</guid>
+      <pubDate>2008-10-22T00:17:03.671530-07:00</pubDate>
+      <dc:date>2008-10-22T00:17:03.671530-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.ibm.com/developerworks/java/library/j-scala10248.html?ca=drs-"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/78lqs/the_busy_java_developers_guide_to_scala_building/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Groovin’ with Scala</title>
+      <link>http://www.reddit.com/r/scala/comments/78a5r/groovin_with_scala/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/78a5r/groovin_with_scala/</guid>
+      <pubDate>2008-10-20T19:38:45.618416+00:00</pubDate>
+      <dc:date>2008-10-20T19:38:45.618416+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/fogus"&gt;fogus&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blog.fogus.me/2008/10/20/groovin-with-scala/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/78a5r/groovin_with_scala/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>How Scala's type system works for your Domain Model</title>
+      <link>http://www.reddit.com/r/scala/comments/785tw/how_scalas_type_system_works_for_your_domain_model/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/785tw/how_scalas_type_system_works_for_your_domain_model/</guid>
+      <pubDate>2008-10-20T00:45:33.867602-07:00</pubDate>
+      <dc:date>2008-10-20T00:45:33.867602-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://debasishg.blogspot.com/2008/10/how-scalas-type-system-works-for-your.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/785tw/how_scalas_type_system_works_for_your_domain_model/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Sign of the times -- Impedence mismatch of Scala and J#</title>
+      <link>http://www.reddit.com/r/scala/comments/785m8/sign_of_the_times_impedence_mismatch_of_scala_and/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/785m8/sign_of_the_times_impedence_mismatch_of_scala_and/</guid>
+      <pubDate>2008-10-19T23:57:41.288392-07:00</pubDate>
+      <dc:date>2008-10-19T23:57:41.288392-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://tinesware.blogspot.com/2008/10/sign-of-times-impedence-mismatch-of.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/785m8/sign_of_the_times_impedence_mismatch_of_scala_and/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala's Model of Functions</title>
+      <link>http://www.reddit.com/r/scala/comments/76zsn/scalas_model_of_functions/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76zsn/scalas_model_of_functions/</guid>
+      <pubDate>2008-10-14T06:29:11.666479+00:00</pubDate>
+      <dc:date>2008-10-14T06:29:11.666479+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://bytecrafter.blogspot.com/2008/10/scalas-model-of-functions.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76zsn/scalas_model_of_functions/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Programming for Android with Scala</title>
+      <link>http://www.reddit.com/r/scala/comments/76v66/programming_for_android_with_scala/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76v66/programming_for_android_with_scala/</guid>
+      <pubDate>2008-10-13T16:31:41.107581+00:00</pubDate>
+      <dc:date>2008-10-13T16:31:41.107581+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/buu700"&gt;buu700&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.scala-lang.org/node/160"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76v66/programming_for_android_with_scala/"&gt;[1 comment]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Bloom Filters in Scala (and all the fun that they bring)</title>
+      <link>http://www.reddit.com/r/scala/comments/76sby/bloom_filters_in_scala_and_all_the_fun_that_they/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76sby/bloom_filters_in_scala_and_all_the_fun_that_they/</guid>
+      <pubDate>2008-10-13T07:15:46.822829+00:00</pubDate>
+      <dc:date>2008-10-13T07:15:46.822829+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.codecommit.com/blog/scala/bloom-filters-in-scala"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76sby/bloom_filters_in_scala_and_all_the_fun_that_they/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Does Scala have Java’s ternary operator?</title>
+      <link>http://www.reddit.com/r/scala/comments/76sng/does_scala_have_javas_ternary_operator/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76sng/does_scala_have_javas_ternary_operator/</guid>
+      <pubDate>2008-10-13T01:40:15.804168-07:00</pubDate>
+      <dc:date>2008-10-13T01:40:15.804168-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://blog.tmorris.net/does-scala-have-javas-ternary-operator/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76sng/does_scala_have_javas_ternary_operator/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Map Composition in Scala (or The Virtues of Laziness)</title>
+      <link>http://www.reddit.com/r/scala/comments/76sfx/map_composition_in_scala_or_the_virtues_of/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76sfx/map_composition_in_scala_or_the_virtues_of/</guid>
+      <pubDate>2008-10-13T00:41:10.432610-07:00</pubDate>
+      <dc:date>2008-10-13T00:41:10.432610-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://debasishg.blogspot.com/2008/10/map-composition-in-scala-or-virtues-of.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76sfx/map_composition_in_scala_or_the_virtues_of/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Formal Language Processing in Scala, Solutions to Part 4</title>
+      <link>http://www.reddit.com/r/scala/comments/76r3w/formal_language_processing_in_scala_solutions_to/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76r3w/formal_language_processing_in_scala_solutions_to/</guid>
+      <pubDate>2008-10-12T19:40:24.444208-07:00</pubDate>
+      <dc:date>2008-10-12T19:40:24.444208-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://szeiger.de/blog/2008/10/12/formal-language-processing-in-scala-solutions-to-part-4/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76r3w/formal_language_processing_in_scala_solutions_to/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala is a ghetto?</title>
+      <link>http://www.reddit.com/r/scala/comments/76p2b/scala_is_a_ghetto/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76p2b/scala_is_a_ghetto/</guid>
+      <pubDate>2008-10-12T10:42:59.332729-07:00</pubDate>
+      <dc:date>2008-10-12T10:42:59.332729-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://stephan.reposita.org/archives/2008/10/12/scala-is-a-ghetto/"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76p2b/scala_is_a_ghetto/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>tiscaf-0.1.1 - http server in Scala</title>
+      <link>http://www.reddit.com/r/scala/comments/76odj/tiscaf011_http_server_in_scala/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76odj/tiscaf011_http_server_in_scala/</guid>
+      <pubDate>2008-10-12T14:37:45.499082+00:00</pubDate>
+      <dc:date>2008-10-12T14:37:45.499082+00:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.scala-lang.org/node/337"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76odj/tiscaf011_http_server_in_scala/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Scala 2.7.2 RC3</title>
+      <link>http://www.reddit.com/r/scala/comments/76ig6/scala_272_rc3/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/76ig6/scala_272_rc3/</guid>
+      <pubDate>2008-10-10T23:15:00.871469-07:00</pubDate>
+      <dc:date>2008-10-10T23:15:00.871469-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://www.nabble.com/-scala--Scala-2.7.2-RC3-td19925687.html#a19925687"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/76ig6/scala_272_rc3/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>To Tail Recurse or Not</title>
+      <link>http://www.reddit.com/r/scala/comments/763m9/to_tail_recurse_or_not/</link>
+      <guid isPermaLink="true">http://www.reddit.com/r/scala/comments/763m9/to_tail_recurse_or_not/</guid>
+      <pubDate>2008-10-09T00:17:18.946086-07:00</pubDate>
+      <dc:date>2008-10-09T00:17:18.946086-07:00</dc:date>
+      <description>submitted by &lt;a href="http://www.reddit.com/user/gst"&gt;gst&lt;/a&gt; &lt;br/&gt; &lt;a href="http://debasishg.blogspot.com/2008/10/to-tail-recurse-or-not.html"&gt;[link]&lt;/a&gt; &lt;a href="http://www.reddit.com/r/scala/comments/763m9/to_tail_recurse_or_not/"&gt;[0 comments]&lt;/a&gt;</description>
+    </item>
+  </channel>
+</rss>

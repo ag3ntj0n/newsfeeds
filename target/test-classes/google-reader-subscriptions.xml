@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>jon subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <!--
+        <outline text="(title unknown)" title="(title unknown)"
+            type="rss"
+            xmlUrl="http://twitter.com/statuses/friends_timeline.atom" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ftwitter.com%2Fstatuses%2Ffriends_timeline.atom"/>
+        <outline text="agentjon reddit" title="agentjon reddit"
+           
+            type="rss"
+            xmlUrl="http://www.reddit.com/user/agentjon/liked/.rss" htmlUrl="http://www.reddit.com/"/>
+        <outline text="del.icio.us/meisemily"
+            title="del.icio.us/meisemily" type="rss"
+            xmlUrl="http://del.icio.us/rss/meisemily" htmlUrl="http://delicious.com/meisemily"/>
+        <outline text="digg / agentjon / history"
+            title="digg / agentjon / history" type="rss"
+            xmlUrl="http://www.digg.com/users/agentjon/history.rss" htmlUrl="http://digg.com/users/agentjon/history"/> -->
+        <outline text="Dub War NYC Podcast" title="Dub War NYC Podcast"
+            type="rss"
+            xmlUrl="http://www.dqxt.org/dubwar/podcast/dubwar_podcast.rss" htmlUrl="http://www.dqxt.org/dubwar/index.html"/>
+        <outline text="emily's starred items"
+            title="emily's starred items" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/10280084261354281631/state/com.google/starred" htmlUrl="http://www.google.com/reader/view/user%2F10280084261354281631%2Fstate%2Fcom.google%2Fstarred"/>
+        <outline text="Graceless Failures" title="Graceless Failures"
+            type="rss"
+            xmlUrl="http://www.gracelessfailures.com/feeds/posts/default" htmlUrl="http://www.gracelessfailures.com/"/>
+        <outline text="Juno Download: Breakbeat  - New Releases"
+            title="Juno Download: Breakbeat  - New Releases" type="rss"
+            xmlUrl="http://www.junodownload.com/breakbeat/feeds/rss/" htmlUrl="http://www.junodownload.com/"/>
+        <outline
+            text="Juno Download: Grime/Dubstep MP3s/downloads - New Releases"
+            title="Juno Download: Grime/Dubstep MP3s/downloads - New Releases"
+            type="rss"
+            xmlUrl="http://www.junodownload.com/grime-dubstep/feeds/rss/" htmlUrl="http://www.junodownload.com/"/>
+        <outline text="LimeWire Store - New Releases (ALL)"
+            title="LimeWire Store - New Releases (ALL)" type="rss"
+            xmlUrl="http://www.store.limewire.com/store/feed?type=newReleases&amp;genre=-1" htmlUrl="http://www.store.limewire.com/store/app/pages/newreleases/NewReleases/genreId/-1"/>
+        <outline text="machines for nothing"
+            title="machines for nothing" type="rss"
+            xmlUrl="http://machinesfornothing.com/blog/feed/" htmlUrl="http://machinesfornothing.com/blog"/>
+        <outline text="New York City 2600" title="New York City 2600"
+            type="rss" xmlUrl="http://nyc2600.net/feed/" htmlUrl="http://nyc2600.net"/>
+        <outline text="Planet Scala" title="Planet Scala" type="rss"
+            xmlUrl="http://www.drmaciver.com/planetscala/atom.xml" htmlUrl="http://www.drmaciver.com/planetscala/"/>
+        <outline title="podcasts" text="podcasts">
+            <outline text="2600: The Hacker Quarterly"
+                title="2600: The Hacker Quarterly" type="rss"
+                xmlUrl="http://www.2600.com/rss.xml" htmlUrl="http://www.2600.com/"/>
+            <outline
+                text="Jupiter Broadcasting » Linux Action Show - MP3"
+                title="Jupiter Broadcasting » Linux Action Show - MP3"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/TheLinuxActionShow" htmlUrl="http://www.jupiterbroadcasting.com"/>
+            <outline text="LugRadio (high-quality ogg)"
+                title="LugRadio (high-quality ogg)" type="rss"
+                xmlUrl="http://www.lugradio.org/episodes.ogg.rss" htmlUrl="http://www.lugradio.org/episodes.ogg.rss"/>
+            <outline text="NAPT" title="NAPT" type="rss"
+                xmlUrl="http://www.napt-music.com/sessions/naptcast.xml" htmlUrl="http://www.napt-music.com/"/>
+            <outline text="Open Voices: The Linux Foundation Podcast"
+                title="Open Voices: The Linux Foundation Podcast"
+                type="rss"
+                xmlUrl="http://linux-foundation.org/weblogs/openvoices/?feed=podcast" htmlUrl="http://linux-foundation.org/weblogs/openvoices"/>
+            <outline text="Pecoe's Breakz Linkz"
+                title="Pecoe's Breakz Linkz" type="rss"
+                xmlUrl="http://breakzlinkz.blogspot.com/feeds/posts/default" htmlUrl="http://www.breakzlinkz.com/"/>
+            <outline text="stackoverflow" title="stackoverflow"
+                type="rss"
+                xmlUrl="http://blog.stackoverflow.com/?feed=podcast" htmlUrl="http://blog.stackoverflow.com"/>
+            <outline text="World Soccer Daily Podcast"
+                title="World Soccer Daily Podcast" type="rss"
+                xmlUrl="http://www.worldsoccerweekly.com/audio.xml" htmlUrl="http://www.worldsoccerdaily.com"/>
+            <outline text="XLR8R Audio Podcast"
+                title="XLR8R Audio Podcast" type="rss"
+                xmlUrl="http://feeds.feedburner.com/xlr8r" htmlUrl="http://www.xlr8r.com/rss/podcast/m4a"/>
+        </outline>
+        <outline title="tech blogs" text="tech blogs">
+            <outline text="The Daily WTF" title="The Daily WTF"
+                type="rss"
+                xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+            <outline text="The Unofficial Apple Weblog (TUAW)"
+                title="The Unofficial Apple Weblog (TUAW)" type="rss"
+                xmlUrl="http://www.tuaw.com/category/iphone/rss.xml" htmlUrl="http://www.tuaw.com"/>
+        </outline>
+        <outline title="news" text="news">
+            <outline text="django: what's new online"
+                title="django: what's new online" type="rss"
+                xmlUrl="http://www.reddit.com/r/django/.rss" htmlUrl="http://www.reddit.com/r/django/"/>
+            <outline text="jonobacon@home" title="jonobacon@home"
+                type="rss" xmlUrl="http://www.jonobacon.org/?feed=atom" htmlUrl="http://www.jonobacon.org/"/>
+            <outline text="Linux.com" title="Linux.com" type="rss"
+                xmlUrl="http://www.linux.com/index.rss" htmlUrl="http://www.linux.com/feature"/>
+            <outline text="programming: what's new online"
+                title="programming: what's new online" type="rss"
+                xmlUrl="http://programming.reddit.com/.rss" htmlUrl="http://www.reddit.com/r/programming/"/>
+            <outline text="Python: what's new online"
+                title="Python: what's new online" type="rss"
+                xmlUrl="http://reddit.com/r/Python/.rss" htmlUrl="http://www.reddit.com/r/Python/"/>
+            <outline text="scala: what's new online"
+                title="scala: what's new online" type="rss"
+                xmlUrl="http://www.reddit.com/r/scala/.rss" htmlUrl="http://www.reddit.com/r/scala/"/>
+        </outline>
+        <outline title="music blogs" text="music blogs">
+            <outline text="brooklynvegan" title="brooklynvegan"
+                type="rss"
+                xmlUrl="http://www.brooklynvegan.com/index.xml" htmlUrl="http://www.brooklynvegan.com/"/>
+            <outline text="LimeWire Music Blog"
+                title="LimeWire Music Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/limewiremusicblog" htmlUrl="http://blog.limewire.com"/>
+            <outline text="Missingtoof.com" title="Missingtoof.com"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/missingtoof" htmlUrl="http://missingtoof.com"/>
+            <outline text="Palms Out Sounds" title="Palms Out Sounds"
+                type="rss" xmlUrl="http://feeds.feedburner.com/palmsout" htmlUrl="http://palmsout.blogspot.com/"/>
+            <outline text="The Book of Lunacism"
+                title="The Book of Lunacism" type="rss"
+                xmlUrl="http://kniteforce.wordpress.com/feed" htmlUrl="http://kniteforce.wordpress.com"/>
+            <outline text="The Streets - MySpace Blog"
+                title="The Streets - MySpace Blog" type="rss"
+                xmlUrl="http://blog.myspace.com/blog/rss.cfm?friendID=2536242" htmlUrl="http://blog.myspace.com/thestreets"/>
+        </outline>
+        <outline title="comics" text="comics">
+            <outline text="garfield minus garfield"
+                title="garfield minus garfield" type="rss"
+                xmlUrl="http://garfieldminusgarfield.tumblr.com/rss" htmlUrl="http://garfieldminusgarfield.net/"/>
+            <outline text="Idiot Comics" title="Idiot Comics" type="rss"
+                xmlUrl="http://www.rsspect.com/rss/idiotcomics.xml" htmlUrl="http://www.idiotcomics.com"/>
+            <outline text="Penny-Arcade" title="Penny-Arcade" type="rss"
+                xmlUrl="http://www.penny-arcade.com/rss.xml" htmlUrl="http://www.penny-arcade.com/"/>
+            <outline text="Robot Darwin" title="Robot Darwin" type="rss"
+                xmlUrl="http://robotdarwin.com/feed/" htmlUrl="http://robotdarwin.com"/>
+            <outline text="xkcd.com" title="xkcd.com" type="rss"
+                xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+        </outline>
+        <outline title="blogs" text="blogs">
+            <outline text="Consumerist: Top" title="Consumerist: Top"
+                type="rss"
+                xmlUrl="http://consumerist.com/tag/top/index.xml" htmlUrl="http://consumerist.com/tag/top"/>
+            <outline
+                text="dotBoom - a puppet show about web designers who hate themselves."
+                title="dotBoom - a puppet show about web designers who hate themselves."
+                type="rss" xmlUrl="http://feeds.feedburner.com/dotBoom" htmlUrl="0"/>
+            <outline text="FREEwilliamsburg" title="FREEwilliamsburg"
+                type="rss"
+                xmlUrl="http://www.freewilliamsburg.com/index.xml" htmlUrl="http://www.freewilliamsburg.com/"/>
+            <outline text="Gothamist" title="Gothamist" type="rss"
+                xmlUrl="http://feeds.gothamistllc.com/gothamist05" htmlUrl="http://gothamist.com/"/>
+            <outline
+                text="passive-aggressive (and just plain aggressive) notes"
+                title="passive-aggressive (and just plain aggressive) notes"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/passiveaggressivenotes" htmlUrl="http://www.passiveaggressivenotes.com"/>
+        </outline>
+    </body>
+</opml>
