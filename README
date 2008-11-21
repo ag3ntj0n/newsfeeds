@@ -1,0 +1,3 @@
+just a couple of classes to make reading rss and atom feeds easier; also a feed class for google reader opml exports
+
+mvn clean scala:compile test 
